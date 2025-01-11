@@ -2,6 +2,7 @@
 This repository is about building a deep learning model using TensorFlow 2 to recognize gender of a given speaker's audio. Read this [tutorial](https://www.thepythoncode.com/article/gender-recognition-by-voice-using-tensorflow-in-python) for more information.
 
 ## Requirements
+
 - TensorFlow 2.x.x
 - Scikit-learn
 - Numpy
